@@ -1,0 +1,37 @@
+{
+    "resep": [
+        {
+            "id": 1,
+            "nama": "Ayam Pop Padang",
+            "gambar": "https://img-global.cpcdn.com/recipes/70737493cdc46d58/680x482cq70/ayam-pop-masakan-khas-padang-foto-resep-utama.webp",
+            "jenis": "Makanan",
+            "bahan": {
+                "bumbu": "💕Bahan bahan: 1 ekor ayam tanpa kepala dan ceker, 1 jeruk nipis-💕Bumbu halus: 3 sdm bumbu dasar putih-💕Bahan bumbu cemplung:15 lembar daun salam, 7 lembar daun jeruk, 3 batang serai di geprek, 1,5 ruas jari lengkuas,di geprek, 1,5 ruas jari jahe, di geprek, 2 sdt garam, 1/2 sdt bubuk kaldu, 1 sdt gula pasir, 700 ml air kelapa",
+                "resep": "1.) Siapkan bahan bahan. Ayam cuci bersih dan kucuri dengan jeruk nipis diamkan 5 menit lalu bilas sampai bersih. Tata daun salam di wajan cekung, lalu atasnya letakkan daun jeruk, 2.) Letakan ayam, lalu beri bumbu halus, serai, lengkuas, jahe, garam, bubuk kaldu dan gula pasir.tuang air kelapa.lalu masak dng api kecil. Ungkep hingga air menyusut, sambil di balik balik dan disiram2kan air bumbu ke badan ayam.biarkan sampai air menyusut, 3.) Setelah itu potong2. Siapkan wajan dng minyak goreng. Panaskan sampai minyak benar2 sudah panas, goreng ayam selama 10 detik/sebentar saja lalu angkat dan tiriskan..",
+                "picture": "https://img-global.cpcdn.com/recipes/70737493cdc46d58/680x482cq70/ayam-pop-masakan-khas-padang-foto-resep-utama.webp"
+            }
+        },
+        {
+            "id": 2,
+            "nama": "Es Campur Santan",
+            "gambar": "https://img-global.cpcdn.com/recipes/7c6cbb10daf2572d/680x482cq70/es-campur-santan-foto-resep-utama.webp",
+            "jenis": "Minuman",
+            "bahan": {
+                "bumbu": "1 buah alpukat mentega matang, potong/kerok 1 buah naga, potong/kerok Secukupnya bonteng/timun suri, potong Secukupnya sagu mutiara matang 1 bks santan instan kara @65 ml 2 sachet gula diabetasol 300 ml air",
+                "resep": "Masak santan, air dan gula diabetasol dalam panci. Aduk-aduk hingga mendidih dan matang. Es Campur Santan langkah memasak 1 foto Tata es batu, buah-buahan dan sagu mutiara dalam mangkok/gelas. Beri kuah santan. Es Campur Santan langkah memasak 2 foto Es Campur Santan langkah memasak 2 foto Es Campur Santan langkah memasak 2 foto Siap di sajikan.",
+                "picture": "https://img-global.cpcdn.com/recipes/7c6cbb10daf2572d/680x482cq70/es-campur-santan-foto-resep-utama.webp"
+            }
+        },
+        {
+            "id": 3,
+            "nama": "Es Coktail Pepaya, Melon Kweni",
+            "gambar": "https://img-global.cpcdn.com/recipes/bef24ccf10df9fc8/680x482cq70/es-coktail-pepaya-melon-kweni-foto-resep-utama.webp",
+            "jenis": "Minuman",
+            "bahan": {
+                "bumbu": "1 sdm Cooktail pepaya, 1 sdm Cooktail melon, 1 sdm kweni, 1 sdm selasih yg telah di beri air, 7 kotak kecil es batu, 1 sdm SKM, 2 sdm Sirup Melon (Marjan)",
+                "resep": "Siapkah Seluruh Bahan, Campurkan, Minum.",
+                "picture": "https://img-global.cpcdn.com/recipes/bef24ccf10df9fc8/680x482cq70/es-coktail-pepaya-melon-kweni-foto-resep-utama.webp"
+            }
+        }
+    ]
+}
